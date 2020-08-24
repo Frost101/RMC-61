@@ -1,3 +1,5 @@
+@media (min-width: 1300px) {
+
 header{
   background-color:#3816c0;
   color:#ffffff;
@@ -272,4 +274,5 @@ a.CommonBlock:hover{
 }
 a.CommonBlock:focus{
   color:#b50202;
+}
 }
