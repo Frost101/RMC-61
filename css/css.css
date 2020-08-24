@@ -61,12 +61,14 @@ nav>a:hover{
 }
 
 div.a h1{
-   position:relative; 
+   position:relative;
+   
+   text-align:center; 
   Font-size:200%;
   color:#11035d;
-  animation-name:h1asection;
+  /*animation-name:h1asection;
   animation-duration: 2s;
-  animation-fill-mode: forwards;
+  animation-fill-mode: forwards;*/
 }
 div.a p{
 font-size:120%;
@@ -83,12 +85,13 @@ margin:1%;
 background-image:linear-gradient(to left,#8487ef,#c5c6e6);
 }
 div.b h1{
+  text-align:center; 
    position:relative; 
   Font-size:250%;
   color:##050754; 
-  animation-name:h1asection;
+ /* animation-name:h1asection;
   animation-duration: 2s;
-  animation-fill-mode: forwards;
+  animation-fill-mode: forwards;*/
 }
 .divblink{
 display:inline-block;
@@ -137,12 +140,14 @@ margin:1%;
 background-image:linear-gradient(to right,#4aefc1,#cdece4);;
 }
 div.c h1{
-   position:relative; 
+
+   position:relative;
+   text-align:center; 
   Font-size:250%;
   color:##050754; 
-  animation-name:h1asection;
+  /*animation-name:h1asection;
   animation-duration: 2s;
-  animation-fill-mode: forwards;
+  animation-fill-mode: forwards;*/
 }
 .divclink{
 display:inline-block;
@@ -192,12 +197,13 @@ margin:1%;
 background-image:linear-gradient(to left,#8487ef,#c5c6e6);;
 }
 div.d h1{
-   position:relative; 
+   position:relative;
+   text-align:center; 
   Font-size:250%;
   color:#050754; 
-  animation-name:h1asection;
+ /* animation-name:h1asection;
   animation-duration: 2s;
-  animation-fill-mode: forwards;
+  animation-fill-mode: forwards;*/
 }
 .divdlink{
 display:inline-block;
