@@ -55,10 +55,10 @@ nav>a:hover{
   display:block;
   margin:1%;
 } 
-@keyframes h1asection {
+/*@keyframes h1asection {
   from {left:0px;}
   to{left:45%;}
-}
+}*/
 
 div.a h1{
    position:relative;
