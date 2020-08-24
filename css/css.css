@@ -1,6 +1,4 @@
-
 header{
-  display:block;
   background-color:#3816c0;
   color:#ffffff;
   margin:1%;
@@ -58,7 +56,7 @@ nav>a:hover{
   margin:1%;
 } 
 @keyframes h1asection {
-  from {left:20%;}
+  from {left:0px;}
   to{left:45%;}
 }
 
@@ -242,7 +240,9 @@ div.d a:focus{
 footer{
   display:block;
   margin:1%;padding:2%;
-  background-color:#002e55; 
+  background-color:#002e55;
+  block-size:auto;
+  writing-mode: horizontal-tb;
   text-align:center;
 }
 footer p{
@@ -273,4 +273,3 @@ a.CommonBlock:hover{
 a.CommonBlock:focus{
   color:#b50202;
 }
-
