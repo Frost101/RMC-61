@@ -1,0 +1,275 @@
+header{
+  background-color:#3816c0;
+  color:#ffffff;
+  margin:1%;
+}
+header h1{
+  padding-top:1%;
+  text-align:center;
+  font-style:italic;
+  font-size:250%;
+}
+header h3{
+  padding-left:3%;
+}
+nav a{
+  display:inline-block;
+  text-decoration:none;
+  float:both;
+  background-color:#ffffff; 
+  border-radius:10px; 
+  width:15%;
+  text-align:center;
+  margin-left:3%;
+  margin-right:3%;
+  margin-bottom:3%;
+  padding:1%;
+  font-size:120%; 
+  border:1px solid black;
+  overflow:auto;
+}
+nav>a:first-child{
+  margin-left:3%;
+}
+nav>a:focus{
+  background-color:#9690ed;
+  color:#0b0b0c;
+}
+nav>a:hover{
+  background-color:#9690ed;
+  color:#0b0b0c;
+}
+.active{
+  background-color:#9690ed;
+  color:#0b0b0c;
+}
+
+
+.AnatomyBooksaclass{
+  display:inline-block;
+  width:5%;
+}
+
+
+.a{
+  display:block;
+  margin:1%;
+} 
+@keyframes h1asection {
+  from {left:0px;}
+  to{left:45%;}
+}
+
+div.a h1{
+   position:relative; 
+  Font-size:200%;
+  color:#11035d;
+  animation-name:h1asection;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+div.a p{
+font-size:120%;
+text-align:center;
+}
+div.a ul{
+text-align:center;
+list-style-type:zero;
+}
+
+.b{
+display:block;
+margin:1%;
+background-image:linear-gradient(to left,#8487ef,#c5c6e6);
+}
+div.b h1{
+   position:relative; 
+  Font-size:250%;
+  color:##050754; 
+  animation-name:h1asection;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+.divblink{
+display:inline-block;
+border-radius:10px;
+width:60%;
+float:both;
+text-decoration:none;
+padding:2%;
+margin-top:1%;
+margin-bottom:1%;
+ margin-left:17%;
+ border-width:0px 7px 7px 0px;
+  border-style:outset;
+  border-color:#777676;
+background-color:#ffffff;
+transition-property:border,width,color,background-color;
+transition-duration:.5s;
+transition-timing-function:linear;
+transition-delay:.5s;
+}
+div.b span.bA{
+text-align:center;
+font-size:200%;
+  color:#08da22;
+}
+div.b span.bB{
+text-align:center;
+font-size:100%;
+  color:#b50202;
+}
+div.b a:hover{
+  background-color:#3816c0;
+  width:63%;
+}
+div.b a:focus{
+  background-color:#3816c0;
+  width:63%;
+}
+
+
+
+.c{
+ 
+display:block;
+margin:1%;
+background-image:linear-gradient(to right,#4aefc1,#cdece4);;
+}
+div.c h1{
+   position:relative; 
+  Font-size:250%;
+  color:##050754; 
+  animation-name:h1asection;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+.divclink{
+display:inline-block;
+border-radius:10px;
+width:60%;
+float:both;
+text-decoration:none;
+padding:2%;
+margin-top:1%;
+margin-bottom:1%;
+ margin-left:17%;
+ border-width:0px 7px 7px 0px;
+  border-style:outset;
+  border-color:#777676;
+background-color:#ffffff;
+transition-property:border,width,color,background-color;
+transition-duration:.5s;
+transition-timing-function:linear;
+transition-delay:.5s;
+}
+div.c span.bA{
+text-align:center;
+font-size:200%;
+  color:#08da22;
+}
+div.c span.bB{
+text-align:center;
+font-size:100%;
+  color:#b50202;
+}
+div.c a:hover{
+  background-color:#3816c0;
+  width:63%;
+}
+div.c a:focus{
+  background-color:#3816c0;
+  width:63%;
+}
+
+
+
+
+
+.d{
+display:block;
+margin:1%;
+background-image:linear-gradient(to left,#8487ef,#c5c6e6);;
+}
+div.d h1{
+   position:relative; 
+  Font-size:250%;
+  color:#050754; 
+  animation-name:h1asection;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+.divdlink{
+display:inline-block;
+border-radius:10px;
+width:60%;
+float:both;
+text-decoration:none;
+padding:2%;
+margin-top:1%;
+margin-bottom:1%;
+ margin-left:17%;
+ border-width:0px 7px 7px 0px;
+  border-style:outset;
+  border-color:#777676;
+background-color:#ffffff;
+transition-property:border,width,color,background-color;
+transition-duration:.5s;
+transition-timing-function:linear;
+transition-delay:.5s;
+}
+div.d span.bA{
+text-align:center;
+font-size:200%;
+  color:#08da22;
+}
+div.d span.bB{
+text-align:center;
+font-size:100%;
+  color:#b50202;
+}
+div.d a:hover{
+  background-color:#3816c0;
+  width:63%;
+}
+div.d a:focus{
+  background-color:#3816c0;
+  width:63%;
+}
+
+footer{
+  display:block;
+  margin:1%;padding:2%;
+  background-color:#002e55;
+  block-size:auto;
+  writing-mode: horizontal-tb;
+  text-align:center;
+}
+footer p{
+  color:#7bd0e0;
+}
+
+
+
+/* Anatomy Books */
+
+
+.CommonBlock{
+  display:inline-block;
+border-radius:10px;
+width:60%;
+float:both;
+text-decoration:none;
+padding:2%;
+margin-top:1%;
+margin-bottom:1%;
+ margin-left:17%;
+border: 5px inset black;
+background-color:#ffffff;
+}
+a.CommonBlock:hover{
+  color:#b50202;
+}
+a.CommonBlock:focus{
+  color:#b50202;
+}
