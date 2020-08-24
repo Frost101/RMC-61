@@ -57,7 +57,7 @@ nav>a:hover{
   margin:1%;
 } 
 @keyframes h1asection {
-  from {left:0%;}
+  from {left:20%;}
   to{left:45%;}
 }
 
