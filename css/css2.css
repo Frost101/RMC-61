@@ -67,9 +67,9 @@ header{
     font-size:200%;
     text-align:center;
     transition-property:border,width,color,background-color;
-    transition-duration:.5s;
+    transition-duration:.2s;
     transition-timing-function:linear;
-    transition-delay:.5s;
+    transition-delay:.2s;
     
    border-width:0px 7px 7px 0px;
   border-style:outset;
