@@ -108,9 +108,9 @@ margin-bottom:1%;
   border-color:#777676;
 background-color:#ffffff;
 transition-property:border,width,color,background-color;
-transition-duration:.5s;
+transition-duration:.2s;
 transition-timing-function:linear;
-transition-delay:.5s;
+transition-delay:.2s;
 }
 div.b span.bA{
 text-align:center;
@@ -164,9 +164,9 @@ margin-bottom:1%;
   border-color:#777676;
 background-color:#ffffff;
 transition-property:border,width,color,background-color;
-transition-duration:.5s;
+transition-duration:.2s;
 transition-timing-function:linear;
-transition-delay:.5s;
+transition-delay:.2s;
 }
 div.c span.bA{
 text-align:center;
@@ -220,9 +220,9 @@ margin-bottom:1%;
   border-color:#777676;
 background-color:#ffffff;
 transition-property:border,width,color,background-color;
-transition-duration:.5s;
+transition-duration:.2s;
 transition-timing-function:linear;
-transition-delay:.5s;
+transition-delay:.2s;
 }
 div.d span.bA{
 text-align:center;
